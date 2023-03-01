@@ -1,0 +1,228 @@
+/* section 1 */
+.bd{
+    height: 530px;
+    background-color: rgb(3, 3, 63);
+  }
+.display-4{
+    font-weight: bold;
+}
+.wind{
+    border: 1px solid (to right, rgb(18, 16, 59), rgb(49, 49, 177))  ;width: 420px; height: 320px; border-radius: 15px; background-image: linear-gradient(to right, rgb(18, 16, 59), rgb(49, 49, 177));
+}
+
+.pic-rounded{
+    position: absolute;left: 880px; top: 140px;z-index: 2;
+}
+
+.links{
+    border: 1px solid rgb(176, 171, 171); border-radius: 10px; height:100px;  background-color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .bd{
+        height: 530px;
+        background-color: rgb(3, 3, 63);
+      }
+    .display-4{
+        font-weight: bold;
+    }
+    .wind{
+        border: 1px solid (to right, rgb(18, 16, 59), rgb(49, 49, 177))  ;width: 420px; height: 320px; border-radius: 15px; background-image: linear-gradient(to right, rgb(18, 16, 59), rgb(49, 49, 177));
+    }
+    
+    .pic-rounded{
+        position: absolute;left: 880px; top: 140px;z-index: 2;
+    }
+    
+    .links{
+        border: 1px solid rgb(176, 171, 171); border-radius: 10px; height:100px;  background-color: white;
+    }
+  }
+
+
+/* section 2 */
+ .sec2-img{ 
+    margin-left:-600px;
+}
+.yearexp{
+    position: absolute; left: 4.5%; top: 760px; 
+}
+.bluebd{
+    border: 5px solid #1e73f6; border-top: 0px;  height: 565px;width: 495px;           position: absolute;top: 770px;left: 190px;border-image: linear-gradient(to top, rgb(33,140,255),rgba(250, 250, 253, 0)) 1 1 1;
+}
+
+/* section 3 */
+.turbine{
+    border: 1px solid rgb(175, 171, 171); background-color: whitesmoke; width:425px; height: 300px; border-radius: 5%;
+}
+.windwebp{
+    border-radius: 5%;position: absolute;left: 230px; top: 1550px;z-index: 1; 
+}
+.enercon{
+    font-size: 20px;
+}
+.elecdeal{
+    font-size: 20px;
+}
+.ecbd{
+    border: 1px solid rgb(175, 171, 171); background-color: whitesmoke; width:422px; height: 305px; border-radius: 5%;
+}
+.ecjpeg{
+    border-radius: 5%;position: absolute;left: 720px; top: 1917px;z-index: 2;
+}
+.gasbd{
+    border: 1px solid rgb(175, 171, 171); background-color: whitesmoke; width:420px; height: 315px; border-radius: 5%;
+}
+.gasjpg{
+    border-radius: 5%;position: absolute;left: 193px; top: 2286px;z-index: 2;
+}
+
+/* section 3.2 */
+.aseusein{
+    font-size: 20px;
+}
+.solar{
+    background-color: blue;
+}
+.solarpng{
+    opacity: 0.3;
+}
+.solarpos{
+    position: absolute; top:2700px;width: 100%;
+}
+.nnt{
+    font-size: 30px;
+}
+.clientsimg{
+    font-size: 30px;
+}
+.veri{
+    font-size: 30px;
+}
+.trophy{
+    font-size: 30px;
+}
+
+/* section 4 clients we work for */
+.navw{
+    width: 60px;
+}
+.seemorebg{
+    background-color: blue;
+}
+.seemore{
+    position: absolute;top: 3520px;left: 67%;
+}
+.jumbo{
+    width: 520px;
+}
+.jumbobg{
+    width: 520px;
+}
+.say{
+    background-color: rgb(168, 207, 200); height: 630px;
+}
+.cameron{
+    width:489px;height: 330px;border-radius: 10px;background-color: rgb(243, 241, 241);
+}
+.cameronpt{
+    padding-top: -20px;
+}
+.cameronfont{
+    font-size: 18px;
+}
+.star1{
+    line-height: 27px;
+}
+.ron{
+    width:489px;height: 330px;border-radius: 10px;background-color: rgb(243, 241, 241);
+}
+.ronpt{
+    padding-top: -20px;
+}
+.ronjpeg{
+    border-radius: 5px;
+}
+.ronricha{
+    font-size: 18px;
+}
+.star2{
+    line-height: 27px;
+}
+.bluedot{
+    position: absolute; left: 47%;top: 4600px;
+}
+.wdot1{
+    position: absolute; left: 48.5%;top: 4600px;
+}
+.wdot2{
+    position: absolute; left: 50%;top: 4600px;
+}
+.wdot3{
+    position: absolute; left: 51.5%;top: 4600px;
+}
+.wdot4{
+    position: absolute; left: 53%;top: 4600px;
+}
+
+/* section 5 blogs */
+.blogs{
+    font-size: large;
+}
+.p1card{
+    width: 21rem; height: 24rem;
+}
+.augdate{
+    background-color: blue; width: 60px; height: 60px;  position: absolute; right: 7%; top: 50%;
+}
+.spanaug{
+    font-size: 19px; font-weight: bold; 
+}
+.p2card{
+    width: 21rem; height: 24rem;
+}
+.jundate{
+    background-color: blue; width: 60px; height: 60px;  position: absolute; right: 7%; top: 50%;
+}
+.spanjun{
+    font-size: 19px; font-weight: bold; 
+}
+.p3card{
+    width: 21rem;  height: 24rem;
+}
+.mardate{
+    background-color: blue; width: 60px; height: 60px;  position: absolute; right: 7%; top: 50%;
+}
+.spanmar{
+    font-size: 19px; font-weight: bold;
+}
+
+/* section 5.2 subscribe */
+.subs{
+    position: absolute; top: 5280px; margin-top: 100px;
+}
+.subbd{
+    border: 2px solid #1eb4e6;width: 1050px; height: 130px; border-radius: 10px; background-color: rgb(30, 180, 230); 
+}
+.placehldr{
+    border: 1px solid white;border-radius: 5px; background-color: rgb(30, 180, 230)
+}
+.contents{
+    background-color: rgb(222, 228, 226); height: 530px;width: 100%
+    ;padding-right: 500px; margin-top: 145px;
+}
+
+/* section 6 last */
+.contact{
+    height: 2px; width: 120px;
+}
+.latest{
+    height: 2px; width: 120px;
+}
+.useful{
+    height: 2px; width: 120px;
+}
+.insta{
+    height: 2px; width: 120px;
+}
+
